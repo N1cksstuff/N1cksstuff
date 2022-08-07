@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **My Name's Nick, and this is my stuff 
 
 
@@ -11,4 +11,4 @@
 - 📫 Wanna talk? https://discord.gg/hrnvkRcD5B
 - 😄 Pronouns: He/Him, but if you want to use anything else sure! I don't really care
 
--->
+
