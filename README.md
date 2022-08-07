@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**My Name's Nick, and this is my stuff 
+**My Name's Nick, and this is my stuff**
 
 
 - 🔭 I’m currently working on multiple Website Projects, for example https://Emmersis.com , and on my own game!
