@@ -26,3 +26,7 @@
   - PayPal: Click [here]()
   
 </details>
+
+
+Idea for this Readme came from @kkrypt0nn 
+Thank you <3
