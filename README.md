@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey, My name's Nick!</h1>
 
-<p align="center">Hey there, I’m Nick! I want to be a webdev at some point, and I love music. (Arctic Monkeys, Kraftklub, McCafferty) I like computers <i>(surprised?)</i><br><br><strong>I 💜 open source</strong></p>
+<p align="center">Hey there, I’m Nick! I want to be a webdev at some point, I love good sounding headphones or speakers (I can reccomend Skullcandy for headphones or SOUNDBOKS for Speakers).<br> I like computers <i>(surprised?)</i>I stream on twitch. Sometimes.. anyway...<br><br><strong>I 💜 open source</strong></p>
 
 <hr>
 
