@@ -17,12 +17,12 @@
 <details>
   <summary>Wanna gimme money?</summary>
   
-  - Bitcoin: 31mGvXAhWJbhSwdgx9F2mVPguPRFCYYFwL
-  - Ethereum: 0x20257228C9e94A13E4BB9578635c84403cAb6E60
-  - Dogecoin: D9hhH53pSe2KXPBvVQLe5G5FTvrmWnjtW4
-  - Dash: XiJKVXoeR6nMCnhYQSM3DEHtMdubUjtLeC
-  - Patreon: Click [here](https://go.krypton.ninja/patreon)
-  - Ko-fi: Click [here](https://go.krypton.ninja/kofi)
-  - PayPal: Click [here](https://go.krypton.ninja/paypal)
+  - Bitcoin: 
+  - Ethereum: 
+  - Dogecoin: 
+  - Dash: 
+  - Patreon: Click [here]()
+  - Ko-fi: Click [here]()
+  - PayPal: Click [here]()
   
 </details>
