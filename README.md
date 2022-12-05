@@ -12,7 +12,7 @@
 - 🌱 I'm currently learning **Python** & **GDScript**
 - 💭 Ask me things about anything and I will try to answer.
 - 📇 Contact me: [Nick owo#0224](https://discord.gg/hrnvkRcD5B) on Discord, [@N1ck_owo](https://twitter.com/N1ck_owo) on Twitter or per [Email](Nickdoesstuff@proton.me)
-- 💜 Fun facts: My favorite animal is a wolf and my favorite color is [#7321B5](https://www.color-hex.com/color/7321b5) or any type of purple.
+- 💜 Fun facts: My favorite animal is a bee and my favorite color is [#7321B5](https://www.color-hex.com/color/7321b5) or any type of purple.
 <br><br><br><br><br><br>
 
 Idea for this Readme came from @kkrypt0nn 
