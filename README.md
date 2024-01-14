@@ -11,7 +11,7 @@
 - 🛠️ I'm currently working on improving **https://nickowo.me** and **a billion side projects**.
 - 🌱 I'm currently learning **Python** & **C#**
 - 💭 Ask me things about anything and I will try to answer.
-- 📇 Contact me: [nickowo.me](https://discord.gg/hrnvkRcD5B) on Discord, [@N1ck_owo](https://twitter.com/N1ck_owo) on X or per [Email](Nickdoesstuff@proton.me)
+- 📇 Contact me: [nickowo.](https://discord.gg/hrnvkRcD5B) on Discord, [@N1ck_owo](https://twitter.com/N1ck_owo) on X or per [Email](Nickdoesstuff@proton.me)
 - 💜 Fun facts: My favorite animal is a bee and my favorite color is [#2E0D48](https://www.color-hex.com/color/2e0d48) or any type of purple.
 <br><br><br><br><br><br>
 
