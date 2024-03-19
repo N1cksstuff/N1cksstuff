@@ -14,8 +14,6 @@
 - 📇 Contact me: [nickowo.](https://discord.gg/hrnvkRcD5B) on Discord, [@N1ck_owo](https://twitter.com/N1ck_owo) on X or per [Email](Nickdoesstuff@proton.me)
 - 💜 Fun facts: My favorite animal is a bee and my favorite color is [#2E0D48](https://www.color-hex.com/color/2e0d48) or any type of purple.
 <br><br><br><br><br><br>
-
-
 <a href="https://app.daily.dev/n1ck"><img src="https://api.daily.dev/devcards/v2/quf5SRSaazFfbxwGBvILY.png?type=default&r=sdx" width="356" alt="Nick's Dev Card"/></a>
 
 
