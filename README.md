@@ -1,22 +1,35 @@
-<h1 align="center">👋 Hey, My name's Nick!</h1>
+# Hi, I'm Nick!  👋
 
-<p align="center">Hey there, I’m Nick! I want to be a webdev at some point, I love good music and good sound.<br> I like computers <i>(surprised?)</i><br>I stream on twitch. Sometimes.. anyway...<br><br><strong>I 💜 open source</strong></p>
+I do web-related stuff mostly, kinda still exploring all the things one can do
 
-<hr>
+![N1cksstuff's Stats](https://github-readme-stats.vercel.app/api?username=N1cksstuff&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-<p align="center">
-  <a href="https://discord.gg/hrnvkRcD5B">Discord</a> • <a href="mailto:Nickdoesstuff@proton.me">Email</a> • <a href="https://twitch.tv/N1ck_owo">Twitch</a> • <a href="https://N1cksstuff.github.io">Website</a>
-</p>
+## 🚀 About Me
 
-- 🛠️ I'm currently working on improving **https://nickowo.me** and **a billion side projects**.
-- 🌱 I'm currently learning **Python** & **C#**
-- 💭 Ask me things about anything and I will try to answer.
-- 📇 Contact me: [nickowo.](https://discord.gg/hrnvkRcD5B) on Discord, [@N1ck_owo](https://twitter.com/N1ck_owo) on X or per [Email](Nickdoesstuff@proton.me)
-- 💜 Fun facts: My favorite animal is a bee and my favorite color is [#2E0D48](https://www.color-hex.com/color/2e0d48) or any type of purple.
-<br><br><br><br><br><br>
-<a href="https://app.daily.dev/n1ck"><img src="https://api.daily.dev/devcards/v2/quf5SRSaazFfbxwGBvILY.png?type=default&r=sdx" width="356" alt="Nick's Dev Card"/></a>
+- 🔭 I'm currently sleeping, drinking coffee, or at work. (I do web stuff)
+- 📝 One of my first and longest ongoing projects is my Website, which is in a state I can only call a complete mess. Please ignore. [nickowo.me](https://nickowo.me).
+- 🌐 I ♡ Arc Browser!
+- ✍️ I do almost all my stuff in Vscode, because realistically- who doesn't? (also it has fun stuff like [Pets!](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets))
+
+## Tech refrigerator 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,md,python)](https://skillicons.dev)
+
+## 🌱 Currently Exploring
+
+- 🚀 Learning Full Stack Web Development
+  - Getting to know Python a bit more
+  - Styling with Tailwind CSS to achieve that sweet eye candy.
+  - Java drank all my coffee, trying to get it back...
+  - The endless worlds of Minecraft. Yes, I love Minecraft.
+
+ ## 🏆 Achievements
+
+- 🌟 I can breathe, I think that's pretty neat
 
 
+## 📬 Get in Touch
 
-The idea for this Readme came from @kkrypt0nn 
-Thank you <3
+- Connect with me on [Discord](https://discord.gg/g7ZAmTQhsP)
+- Or on any of the platforms linked on [my website!](https://nickowo.me)
+
+Thanks for stopping by!
