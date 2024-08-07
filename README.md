@@ -12,7 +12,7 @@ I do web-related stuff mostly, kinda still exploring all the things one can do
 - ✍️ I do almost all my stuff in Vscode, because realistically- who doesn't? (also it has fun stuff like [Pets!](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets))
 
 ## Tech refrigerator 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,md,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,md,python,apple,godot,idea,ps,raspberrypi,tailwind,unity,vscode,vue)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
