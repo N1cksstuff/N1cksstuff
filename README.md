@@ -20,7 +20,6 @@ I do web-related stuff mostly, kinda still exploring all the things one can do
   - Getting to know Python a bit more
   - Styling with Tailwind CSS to achieve that sweet eye candy.
   - Java drank all my coffee, trying to get it back...
-  - The endless worlds of Minecraft. Yes, I love Minecraft.
 
  ## 🏆 Achievements
 
