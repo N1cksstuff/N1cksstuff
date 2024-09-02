@@ -6,7 +6,7 @@ I do web-related stuff mostly, kinda still exploring all the things one can do
 
 ## 🚀 About Me
 
-- 🔭 I'm currently sleeping, drinking coffee, or at work. (I do web stuff)
+- 🔭 I'm currently sleeping, drinking coffee, or at work.
 - 📝 One of my first and longest ongoing projects is my Website, which is in a state I can only call a complete mess. Please ignore. [nickowo.me](https://nickowo.me).
 - 🌐 I ♡ Arc Browser!
 - ✍️ I do almost all my stuff in Vscode, because realistically- who doesn't? (also it has fun stuff like [Pets!](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets))
