@@ -21,14 +21,4 @@ I do web-related stuff mostly, kinda still exploring all the things one can do
   - Styling with Tailwind CSS to achieve that sweet eye candy.
   - Java drank all my coffee, trying to get it back...
 
- ## 🏆 Achievements
-
-- 🌟 I can breathe, I think that's pretty neat
-
-
-## 📬 Get in Touch
-
-- Connect with me on [Discord](https://discord.gg/g7ZAmTQhsP)
-- Or on any of the platforms linked on [my website!](https://nickowo.me)
-
 Thanks for stopping by!
