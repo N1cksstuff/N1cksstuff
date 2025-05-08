@@ -1,4 +1,4 @@
-# Hi there, I'm Nick! 👋
+# Hi there, I'm Nick(y)! 👋
 
 ![I do mostly:](https://github-readme-stats.vercel.app/api/top-langs/?username=N1cksstuff&layout=compact&theme=radical)
 
